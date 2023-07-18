@@ -2,7 +2,7 @@
 - ☁  I'm a AWS Certified Cloud Practitioner
 - 👨🏻‍🎓 Student at Vellore Institute of Technology
 - 👀 I’m interested in Cyber security and Blockchain Technology
-- 🐱‍💻 Certified Ethical Hacker aspirant
+- 🐱‍💻 Certified Ethical Hacker (CEHv12)
 - 💞️ I’m looking to collaborate on any project (open source) or hackathons.
 - 📫 How to reach me on dm.
 
